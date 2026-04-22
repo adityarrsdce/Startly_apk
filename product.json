@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Running Shoes",
+    "price": 999,
+    "images": [
+      "https://picsum.photos/400/300?random=1"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Wireless Headphones",
+    "price": 1499,
+    "images": [
+      "https://picsum.photos/400/300?random=2"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Smart Watch",
+    "price": 1999,
+    "images": [
+      "https://picsum.photos/400/300?random=3"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Backpack",
+    "price": 799,
+    "images": [
+      "https://picsum.photos/400/300?random=4"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Sunglasses",
+    "price": 499,
+    "images": [
+      "https://picsum.photos/400/300?random=5"
+    ]
+  }
+]
