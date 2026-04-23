@@ -3,30 +3,40 @@
     "id": "1",
     "name": "Running Shoes",
     "price": 999,
-    "images": ["https://picsum.photos/300/200?1"]
+    "images": [
+      "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/startly/50+%20bought.png"
+    ]
   },
   {
     "id": "2",
     "name": "Wireless Headphones",
     "price": 1499,
-    "images": ["https://picsum.photos/300/200?2"]
+    "images": [
+      "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/startly/download%20(10).jpg"
+    ]
   },
   {
     "id": "3",
     "name": "Smart Watch",
     "price": 1999,
-    "images": ["https://picsum.photos/300/200?3"]
+    "images": [
+      "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/startly/download%20(11).jpg"
+    ]
   },
   {
     "id": "4",
     "name": "Backpack",
     "price": 799,
-    "images": ["https://picsum.photos/300/200?4"]
+    "images": [
+      "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/startly/download%20(9).jpg"
+    ]
   },
   {
     "id": "5",
     "name": "Sunglasses",
     "price": 499,
-    "images": ["https://picsum.photos/300/200?5"]
+    "images": [
+      "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/startly/Panda%20Holder%20Creative%20Home%20Decor%20Pen%20Pencil%20Holder%20for%20Desk%20School%20Girls%20Green_Home%20&%20Garden%20_%20Home%20Decor_%20Figurines_1x%20Panda%20Pen%20Holder.jpg"
+    ]
   }
-]
+] image open nhi ho rha hai
